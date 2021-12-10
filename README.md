@@ -1,5 +1,5 @@
 # Object_detection_yolo_vs_mobilenet
-  Object detection is detect and recognize the object. It is one of the common application in the computer vision problem (like traffic signals, people tracking, vehicle detection, etc...). In this repo I develop the real time object detetion with pre-trained models. These are **YOLO version 3** and **SSD MobileNet version 3**. And I used coco large dataset for detecting labels, that are totaly 80 labels.
+  Object detection is detecting and recognizing the object. It is one of the common applications in computer vision problems (like traffic signals, people tracking, vehicle detection, etc...). In this repo, I develop real-time object detection with pre-trained models. These are YOLO version 3 and SSD MobileNet version 3. And I used coco large dataset for detecting labels, which are a total of 80 labels.
   
 ## YOLO V3
   Yolo is one of the pre-trained model for object detection. It has been used to several object detection applications. It works based on CNN(Convolutional Neural Network).
