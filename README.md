@@ -9,10 +9,12 @@
 
 ## MobileNet V3
   mobilenet is also pre-trained model for object detection. The SSD(Single Shot Detector) object detection model used in Mobilenet. It can be detect the object in fast and optimized for all mobille devices.
+ 
   - [mobilenet model](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v3_large_coco_2020_01_14.tar.gz)
   - [mobilenet config](https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7)
   - [coco names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
-  
+ 
+ the model and config is also provided in this repo [here]().
 
 
 ## Output Video
