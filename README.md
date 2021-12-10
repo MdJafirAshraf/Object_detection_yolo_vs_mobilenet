@@ -4,4 +4,4 @@
   <source src="https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/blob/main/OutputVideo-Yolo.mp4" type="video/mp4">
 </video> -->
 
-![https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/blob/main/OutputVideo-Yolo.mp4](video.mp4)
+![video.mp4](https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/blob/main/OutputVideo-Yolo.mp4)
