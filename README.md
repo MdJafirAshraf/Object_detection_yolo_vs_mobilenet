@@ -1,7 +1,8 @@
 # Object_detection_yolo_vs_mobilenet
 
-<!-- <video width="320" height="240" controls>
-  <source src="https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/blob/main/OutputVideo-Yolo.mp4" type="video/mp4">
-</video> -->
 
-![video.mp4](https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/blob/main/OutputVideo-Yolo.mp4)
+### YOLO Output Video
+![Yolo Output video](https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/blob/main/OutputVideo-Yolo.gif)
+
+### MobileNet Output Video
+![MobileNet Output video](https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/blob/main/OutputVideo-MobileNet.gif)
