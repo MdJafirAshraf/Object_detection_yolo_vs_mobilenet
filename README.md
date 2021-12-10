@@ -14,7 +14,7 @@
   - [mobilenet config](https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7)
   - [coco names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
  
- the model and config is also provided in this repo [here]().
+ the model and config is also provided in this repo [here](https://github.com/JafirDon/Object_detection_yolo_vs_mobilenet/tree/main/mobilenetv3/ssd_mobilenet_v3_large_coco_2020_01_14).
 
 
 ## Output Video
